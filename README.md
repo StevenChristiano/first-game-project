@@ -34,5 +34,8 @@ What do I use?
 - Phyton
 - Pytorch (python Library)
 - Piskel (Pixel Art), You can use asperite but that option is not for free.
+- 
+![Screenshot 2024-09-27 210825](https://github.com/user-attachments/assets/b143c58c-475d-4811-a9d0-9d2ee9ce63cb)
 
 Note: If you don't want to make the art, I think you can get it from pixilart, or other online platform. 
+
