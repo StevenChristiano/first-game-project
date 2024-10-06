@@ -32,7 +32,7 @@ Yes, I make them myself using piskel. That's a very useful website to make a pix
 
 What do I use?
 - Phyton
-- Pytorch (python Library)
+- Pygame (python Library)
 - Piskel (Pixel Art), You can use asperite but that option is not for free.
 - 
 ![Screenshot 2024-09-27 210825](https://github.com/user-attachments/assets/b143c58c-475d-4811-a9d0-9d2ee9ce63cb)
